@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Effort Estimation"
+  short_description: "Estimate scoped engineering work and verification effort"
+  default_prompt: "Use $software-effort-estimation to estimate this request with assumptions and alternatives."

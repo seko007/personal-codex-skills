@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bug Triage"
+  short_description: "Diagnose bugs with evidence and scoped fixes"
+  default_prompt: "Use $bug-triage to investigate this behavior and explain the cause and fix options."

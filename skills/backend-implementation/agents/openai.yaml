@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend Implementation"
+  short_description: "Implement backend changes with contract and data checks"
+  default_prompt: "Use $backend-implementation to implement this change using the project's rules."

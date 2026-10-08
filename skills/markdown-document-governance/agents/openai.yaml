@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown Document Governance"
+  short_description: "Organize current specs, change plans, and document history"
+  default_prompt: "Use $markdown-document-governance to organize these documents under the project's rules."

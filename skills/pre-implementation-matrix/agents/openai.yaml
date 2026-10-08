@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pre-Implementation Matrix"
+  short_description: "Map requirements, regressions, migrations, and verification"
+  default_prompt: "Use $pre-implementation-matrix to prepare coverage and verification matrices for this change."

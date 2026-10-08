@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Analysis"
+  short_description: "Investigate requirements, decisions, and implementation scope"
+  default_prompt: "Use $task-analysis to investigate this request and clarify scope, risks, and decisions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Issue Commit Message"
+  short_description: "Draft issue-linked commit messages from the actual diff"
+  default_prompt: "Use $issue-commit-message to draft a commit message that follows this repository's conventions."
